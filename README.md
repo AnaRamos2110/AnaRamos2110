@@ -1,5 +1,5 @@
 <h1 align="center">Ana Ramos</h1>
-<h3 align="center">Técnica em Desenvolvimento de Sistemas | Futura DBA | 26y | Campinas-SP</h3>
+<h3 align="center">Técnica em Desenvolvimento de Sistemas | Futura DBA | 26y </h3>
 
 ---
 
