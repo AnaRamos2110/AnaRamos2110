@@ -6,18 +6,16 @@
 ## 👩‍💻 Sobre mim | About me:
 
 - Estudante de **Técnico em Desenvolvimento de Sistemas- Senac**  
-- Futura **DBA (Database Administrator)**  
- -Campinas - SP, Brasil  
- -26 anos  
- -Apaixonada por dados, backend e metodologias ágeis
+- Futura **DBA (Database Administrator)**    
+ - 26 anos  
+ - Apaixonada por dados, backend e metodologias ágeis
 
 ---
 
-🎓 I'm a **Technical Student in Systems Development**  
-🎯 Future **Database Administrator (DBA)**  
-📍 Campinas, São Paulo - Brazil  
-🎂 26 years old  
-💡 Passionate about data, backend development and agile methodologies
+- I'm a **Technical Student in Systems Development**  
+- Future **Database Administrator (DBA)**   
+- 26 years old
+- Passionate about data, backend development and agile methodologies
 
 ---
 
@@ -34,8 +32,9 @@
 
 ## 🌐 Contato | Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabeatrizramos21/) 
-📧 Email: ana.beatriz055@hotmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabeatrizramos21/) 
+
+- 📧 Email: ana.beatriz055@hotmail.com
 
 ---
 
