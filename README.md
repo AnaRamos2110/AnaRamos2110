@@ -7,9 +7,9 @@
 
 - Estudante de **Técnico em Desenvolvimento de Sistemas- Senac**  
 - Futura **DBA (Database Administrator)**  
--Campinas - SP, Brasil  
--26 anos  
--Apaixonada por dados, backend e metodologias ágeis
+ -Campinas - SP, Brasil  
+ -26 anos  
+ -Apaixonada por dados, backend e metodologias ágeis
 
 ---
 
