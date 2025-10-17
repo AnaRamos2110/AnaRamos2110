@@ -8,7 +8,7 @@
 - Estudante de **Técnico em Desenvolvimento de Sistemas- Senac**  
 - Futura **DBA (Database Administrator)**    
  - 26 anos  
- - Apaixonada por dados, backend e metodologias ágeis
+ - Apaixonada por dados, UX e metodologias ágeis
 
 ---
 
