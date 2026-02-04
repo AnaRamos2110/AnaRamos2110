@@ -5,17 +5,15 @@
 
 ## 👩‍💻 Sobre mim | About me:
 
-- Estudante de **Técnico em Desenvolvimento de Sistemas- Senac**  
-- Futura **DBA (Database Administrator)**    
- - 26 anos  
- - Apaixonada por dados, UX e metodologias ágeis
+- Estudante de **Técnico em Desenvolvimento de Sistemas- Senac**    
+ - 27 anos  
+ - Apaixonada por dados, UX design, desenvolvimento backend e metodologias ágeis
 
 ---
 
-- I'm a **Technical Student in Systems Development**  
-- Future **Database Administrator (DBA)**   
-- 26 years old
-- Passionate about data, backend development and agile methodologies
+- I'm a **Technical Student in Systems Development**    
+- 27 years old
+- Passionate about data, UX design, backend development and agile methodologies
 
 ---
 
@@ -26,6 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="javaScript" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.cGXT3YkgwDahQTNt5haqKgHaHa?w=190&h=190&c=7&r=0&o=7&pid=1.7&rm=3" alt="Tailwind" width="40" height="40"/>
   </p>
 
 ---
