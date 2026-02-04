@@ -27,6 +27,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="javaScript" width="40" height="40"/>
   <img src="https://th.bing.com/th/id/OIP.cGXT3YkgwDahQTNt5haqKgHaHa?w=190&h=190&c=7&r=0&o=7&pid=1.7&rm=3" alt="Tailwind" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.FPuNkBw7pRoe8ARQ55fLmgHaHa?w=168&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="Figma" width="40" height="40"/>
   </p>
 
 ---
